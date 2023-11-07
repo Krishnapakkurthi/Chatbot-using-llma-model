@@ -9,7 +9,7 @@ Llama is released in july 2023 by meta and been very popular. Llama-2 has been r
 
 ## Installation
 
-- Clone the repository: git clone https://github.com/venkatavinayvijjapu/chatbot-using-llama.git.
+- Clone the repository: git clone https://github.com/krishnapakkurthi/chatbot-using-llama.git.
 - Download and run the code in vscode using command "streamlit run app.py"
 
 
